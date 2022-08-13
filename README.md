@@ -1,2 +1,3 @@
-# boogops-core
-Core business code for Boogops. 
+# boogops - core
+
+> _It keeps you runnin', yeah it keeps you runnin'_ - The Doobie Brothers
